@@ -14,7 +14,7 @@ library(maizeandblue)
 Use the `names` function to view the available color palettes.
 ```r
 names(umich_palettes)
-#> [1] "signature"   "secondary" "bills_beer_garden"
+#> [1] "signature"         "secondary"         "bills_beer_garden" "frita_batidos"  
 ```
 
 Call the palette using the `render_umich_colors` function
@@ -25,7 +25,7 @@ render_umich_colors("signature")
 
 View a subset of the secondary color scheme
 ```r
-render_cornell_colors("secondary", 5)
+render_umich_colors("secondary", 5)
 ```
 ![](secondary.png)
 

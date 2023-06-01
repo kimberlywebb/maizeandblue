@@ -14,7 +14,8 @@ umich_palettes <- list(
   secondary = c("#9A3324", "#D86018", "#75988d", "#A5A508", "#00B2A9",
                 "#2F65A7", "#702082", "#575294", "#CFC096", "#9B9A6D",
                 "#989C97", "#655A52", "#131516"),
-  bills_beer_garden = c("#416047", "#70B77E", "#E4DDAB")
+  bills_beer_garden = c("#416047", "#70B77E", "#E4DDAB",),
+  frita_batidos = c("#63DAF6", "#A5A7A8", "#FFFFFF", "#FAEC21")
 )
 
 #' UMich colors palette rendering
