@@ -6,7 +6,7 @@ Code adopted from the lovely `inauguration` R package by Cianna Bedford-Petersen
 Install the  `maizeandblue` R package using the following code:
 ``` r
 #install.packages("devtools")
-devtools::install_github("kimhochstedler/maizeandblue", ref="main")
+devtools::install_github("kimberlywebb/maizeandblue", ref="main")
 library(maizeandblue)
 ```
 
