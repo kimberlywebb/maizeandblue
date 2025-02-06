@@ -2,6 +2,8 @@
 Contains code for R package with R color palettes inspired by the University of Michigan.
 Code adopted from the lovely `inauguration` R package by Cianna Bedford-Petersen, available [here](https://github.com/ciannabp/inauguration). 
 
+![](maizeandblue_Hex_Sticker.jpg)
+
 # R package installation
 Install the  `maizeandblue` R package using the following code:
 ``` r
